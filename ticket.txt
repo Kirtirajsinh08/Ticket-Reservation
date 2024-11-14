@@ -1,0 +1,31 @@
+-----Welcome To Indian Railways-----
+-----------TICKET DETAILS-----------
+
+Passenger Details:
+Name: Kirtiraj
+Gender: M
+Age: 21
+Seat: A29
+PNR: 79076114
+
+Train Details:
+Train Number: 9404
+Train Name: VANDE BHARAT EXP
+Source: AHMEDABAD(ADI)
+Destination: MUMBAI (MMCT)
+Departure Time: 15:00:00
+Arrival Time: 21:00:00
+Duration: 9:00:00
+
+Total Fare: 1500
+Payment Mode: Net Banking
+Transaction ID: 124099
+
+
+ -Prescribed Original ID proofs are:- Voter Identity Card / Passport / PAN Card / Driving License / Photo ID card issued by
+Central / State Govt. / Public Sector 
+Undertakings of State / Central Government ,District Administrations , Municipal bodies and Panchayat Administrations which
+are having serial number /
+Cards issued by Banks with laminated photograph/Unique Identification Card 'Aadhaar', m-Aadhaar, e-Aadhaar. /Passenger showing /
+the Aadhaar/Driving /
+Licence from the 'Issued Document'section by logging into his/her DigiLocker account considered as valid proof of identity. /
